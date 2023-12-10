@@ -11,7 +11,7 @@
 - 🚀 I use daily:
   
   [![Java](https://img.shields.io/badge/-Java-FCA121?style=plastic&logo=Java)]()
-  [![SpringBoot](https://img.shields.io/badge/-SpringBoot-F5F5F5?style=plastic&logo=SpringBoot&logoColor=316CE6)]()
+  [![SpringBoot](https://img.shields.io/badge/-SpringBoot-FCA121?style=plastic&logo=SpringBoot&logoColor=316CE6)]()
   [![SpringCloud](https://img.shields.io/badge/-SpringCloud-F5F5F5?style=plastic&logo=SpringCloud&logoColor=316CE6)]()
   [![Eclipse](https://img.shields.io/badge/-Eclipse-7A1FA2?logo=Eclipse&logoColor=FF7043)]()
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]()
