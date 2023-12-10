@@ -3,13 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm  Vino42 , a full-time backend developer 👨‍💻 working remotely since 2015 🚀</div>  
+### <div align="center">I'm  Vino42 , a full-time backend developer</div>  
   
 
 - 🚀 I use daily:
+  
   [![Java](https://img.shields.io/badge/-Java-FCA121?style=plastic&logo=Java)]()
+  [![Eclipse](https://img.shields.io/badge/-Eclipse-7A1FA2?logo=Eclipse&logoColor=FF7043)]()
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]()
   [![Mysql](https://img.shields.io/badge/-Mysql-000000?logo=Mysql&logoColor=FF7043)]()
+  [![Redis](https://img.shields.io/badge/-Redis-000000?logo=Mysql&logoColor=FF7043)]()
   [![Rust](https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=FF7043)]()
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)]()
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)]()
@@ -21,6 +24,7 @@
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)]()
   [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)]()
 
+
 - ⚙️ I also use and work:
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)]()
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)]()
@@ -31,7 +35,7 @@
 
 
 - 🌱 I’m currently learning:
-  [![Rust](https://img.shields.io/badge/-Rust-3DDC84?logo=Rust&logoColor=4788F4)]()
+  [![Rust](https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=FF7043)]()
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)]()
 
 <br/>  
@@ -75,6 +79,7 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://pulsar.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pulsar.svg" alt="Pulsar" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
@@ -96,23 +101,12 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vino42&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vino42&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<br/>  
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vino42" /> </div>
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=vino42&&style=flat-square" align="center" />
-</div>  
   
