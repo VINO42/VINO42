@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm  Vino42 , a full-time backend developer</div>  
+### <div align="center">I'm  Vino42 , a  backend developer</div>  
 
 <!--Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](/) visitor, Thank You!🎉🎉-->
   
