@@ -1,9 +1,11 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://vino42.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">I'm  Vino42 , a full-time backend developer</div>  
+
+<!--Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](/) visitor, Thank You!🎉🎉-->
   
 
 - 🚀 I use daily:
@@ -101,12 +103,26 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vino42&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-<br/>  
+<table><tr><td valign="top" width="50%">
 
-<br/>  
+<img src="https://github-readme-stats.vercel.app/api?username=vino42&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vino42" /> </div>
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vino42&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
 <br/>  
 
   
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=vino42&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
